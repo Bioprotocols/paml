@@ -11,6 +11,15 @@ To join the Bioprotocols Working Group:
 
 # Leadership
 
+_Elected Term: October 7th, 2024 - October 7th, 2025_
+
+**Chair:** [Tim Fallon (UCSD)](mailto:tfallon@ucsd.edu)
+
+**Finance Committee:**
+- [Dan Bryce (SIFT)](mailto:dbryce@sift.net)
+- Sai Samineni (University of Boulder, Colorado) 
+- (3rd seat vacant)
+
 _Elected Term: October 3rd, 2023 - October 3rd, 2024_
 
 **Chair:** [Tim Fallon (UCSD)](mailto:tfallon@ucsd.edu)
