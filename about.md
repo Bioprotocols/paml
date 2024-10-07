@@ -20,7 +20,9 @@ _Elected Term: October 7th, 2024 - October 7th, 2025_
 - Sai Samineni (University of Boulder, Colorado) 
 - (3rd seat vacant)
 
-_Elected Term: October 3rd, 2023 - October 3rd, 2024_
+---
+
+_Former Elected Term: October 3rd, 2023 - October 3rd, 2024_
 
 **Chair:** [Tim Fallon (UCSD)](mailto:tfallon@ucsd.edu)
 
